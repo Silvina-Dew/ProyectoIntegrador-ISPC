@@ -1,9 +1,9 @@
 # ProyectoIntegrador-ISPC
 
-#Conceptos en Scrum
+# Conceptos en Scrum
 
-#Ceremonias:
+# Ceremonias:
 
-#Artefactos:
+# Artefactos:
 
-#Roles:
+# Roles:
