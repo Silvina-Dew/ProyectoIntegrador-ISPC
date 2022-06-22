@@ -1,4 +1,6 @@
-# ProyectoIntegrador-ISPC // Esta es una modificacion
+
+# ProyectoIntegrador-ISPC
+
 # Proyecto integrador
 
 
@@ -9,13 +11,16 @@ problemas complejos adaptativos, a la vez
 que se entregan productos de forma
 eficiente y creativa con el máximo valor.
 
+
 # Ceremonias:
 # ¿Qué son las ceremonias en el SCRUM?
+
 Scrum (n): Es un marco de trabajo a través
 del cual las personas pueden abordar
 problemas complejos adaptativos, a la vez
 que se entregan productos de forma
 eficiente y creativa con el máximo valor. 
+
 **¿Cuáles son las ceremonias?**
 
 Ceremonias que se realizan a lo largo del proyecto:
@@ -48,7 +53,12 @@ debe mejorar para la próxima iteración. De ninguna manera se centra en lo que 
 
 
 # Roles:
-(Falta por definir)
+
+En la metodología Scrum podemos identificar tres roles principales: 
+
+● Scrum Master
+● Product Owner
+● Developer Team
 
 # Definición de roles de un Scrum:
 (Falta por definir)
