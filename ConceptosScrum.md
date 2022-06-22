@@ -1,4 +1,4 @@
-# ProyectoIntegrador-ISPC // Agrego comentario de prueba...
+# ProyectoIntegrador-ISPC
 # Proyecto integrador
 
 
@@ -40,7 +40,11 @@ debe mejorar para la próxima iteración. De ninguna manera se centra en lo que 
 
 
 # Roles:
-(Falta por definir)
+En la metodología Scrum podemos identificar tres roles principales: 
+
+● Scrum Master
+● Product Owner
+● Developer Team
 
 # Definición de roles de un Scrum:
 (Falta por definir)
